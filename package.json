@@ -25,7 +25,7 @@
     "node": ">= 0.10.0"
   },
   "scripts": {
-    "test": "mocha",
+    "test": "mocha"
   },
   "dependencies": {
     "assemble": "git://github.com/assemble/assemble.git#0.5.0",
